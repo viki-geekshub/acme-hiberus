@@ -8,7 +8,6 @@
     justify-content: space-between;
     a {
         color: $Light;
-        // all: unset;
         cursor: pointer;
         padding: 0.5em;
         &:hover {
@@ -20,7 +19,6 @@
         background-color: $Blue;
         color: $Light;
     }
-
     .searchBox{
         width: 20%;
     }
