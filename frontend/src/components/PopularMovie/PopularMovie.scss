@@ -1,0 +1,25 @@
+h2{
+    margin-top: 2%;
+}
+.popularMovieCard, .movieFoundCard{
+    cursor: pointer;
+    width: 23%;
+    padding: 2% 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.popularMovieName{
+    font-size: 125%;
+}
+.popularMovieImage{
+    object-fit: contain;
+    margin-top: 1%;
+}   
+.notAvailable{
+    font-size: 125%;
+    font-weight: bolder;
+    color: red;
+    font-style: italic;
+    padding: 70% 5%;
+}

@@ -1,0 +1,40 @@
+.popularDetailsMovieCard{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    font-size: 120%;
+}
+.image{
+    width: 20%;
+}
+.details{
+    width: 40%;
+    margin-left: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.movieImage{
+    object-fit: contain;
+    margin-top: 1%;
+}
+.notAvailable{
+    font-size: 125%;
+    font-weight: bolder;
+    color: red;
+    font-style: italic;
+    padding: 65% 5%;
+}
+.movieName{
+
+    // font-size: 125%;
+}
+.movieRating{
+    
+}
+.movieDate{
+
+}
+.movieOverview{
+    text-align: justify;
+}
