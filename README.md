@@ -1,5 +1,5 @@
 # acme-hiberus
-Prueba técnica hiberus - Web de películas
+Hiberus Technical Test - Movie Web
 
 In order to see the application, the first is to clone the project from my github with the following command:
 
